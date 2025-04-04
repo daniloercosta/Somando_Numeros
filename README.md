@@ -44,4 +44,4 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito por [Danilo E. R. da Costa](https://github.com/daniloercosta)
